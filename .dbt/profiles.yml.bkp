@@ -1,0 +1,13 @@
+default:
+  target: dev
+  outputs:
+    dev:
+      type: snowflake
+      threads: 16
+      account: HTFMOKR-ITA25167
+      user: LATHIBAD
+      database: ANALYTICS
+      warehouse: TRANSFORMING
+      schema: PUBLIC
+      password: X9#tZ!R@Lm2$Qp
+      role: ACCOUNTADMIN
